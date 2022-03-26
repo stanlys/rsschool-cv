@@ -9,13 +9,14 @@
 * **Discord:** [stanlys#9480](https://discord.com/channels/516715744646660106/846704784274751509)  
 
 # About Me
-I am 36 year old.I work as a department head in a land surveying company. In my work, I constantly have to deal with the automation of office operations. I feel burned out in this area, I want to develop in the field of web technologies, so I signed up for this course. 
+I am 36 year old.I work as a department head in a land surveying company. In my work, I constantly have to deal with the automation of office operations. I feel burned out in this area, I want to develop in the field of web technologies, so I signed up for this course. Until 2010 worked as a Delphi programmer. 
 
 # Skils 
 * HTML
 * JavaScript (Basic)
 * Python (Basic)
 * Visual Basic (Basic)
+* Delphi 7-2010 () 
 
 # Code Example 
 ```
