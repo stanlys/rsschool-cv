@@ -1,5 +1,5 @@
-
-# Chelnakov Sergey
+# Chelnakov Sergey 
+![Photo](https://github.com/stanlys/rsschool-cv/blob/gh-pages/Screenshot_1.jpg)
 
 # Contact 
 * **Location:** Russia, Voronezh
