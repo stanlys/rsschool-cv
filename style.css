@@ -1,0 +1,45 @@
+#wrapper{
+    width: 800px;
+    margin: 0 auto;
+}
+.left{
+    padding-top:20 px;  
+    width: 300px;
+    height:1200px;
+    background-color: oldlace;
+    float: left; 
+    border-radius: 15px 0 15px;    
+}
+        .right-top{
+            background-color: oldlace;
+            border-radius: 0 15px 15px 0;
+            width: 500px;
+            height: 70px;
+            float: right;
+            padding-top: 20px;
+        }
+        .center{
+            text-align: center;
+        }
+        .right{
+            width: 500px;
+            float: right;
+            border-radius: 10px;
+        }
+        img{
+            border-radius: 15px;
+        }
+        .caption{
+            padding: 5px;
+            background-color: darkkhaki;
+            text-align: center;
+        }
+        li{
+            list-style-type: none;
+        }
+        p{
+            padding: 10px;
+        }
+        .b{
+            font-weight: bold;
+        }
